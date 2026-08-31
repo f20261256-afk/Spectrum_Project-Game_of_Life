@@ -16,7 +16,7 @@ Rules:
 
     *No installation needed.
 
-Controls
+Controls:
 
     *Click a cell to toggle it alive/dead
     *Step — advance one generation
